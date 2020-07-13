@@ -5,7 +5,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0 text-dark"> Welcome, <?php echo $this->ps_auth->get_user_info()->user_name;?>!</h1>
+            <h1 class="m-0 text-dark"> Selamat Datang, <?php echo $this->ps_auth->get_user_info()->user_name;?>!</h1>
             <?php flash_msg(); ?>
 
           </div><!-- /.col -->
