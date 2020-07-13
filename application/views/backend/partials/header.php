@@ -11,7 +11,7 @@
 				if ( is_string( $action_title )) echo $action_title;
 				else if ( is_array( $action_title )) echo $action_title[count($action_title) - 1]['label'];
 			} 
-	?>
+	?>: Belajar Al-Quran dan Al-Hadits
   </title>
   <link rel="icon" href="<?php echo base_url('assets/img/favicon.ico'); ?>">
   <!-- Tell the browser to be responsive to screen width -->

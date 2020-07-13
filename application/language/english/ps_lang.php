@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-$lang['site_name'] = "NGAJI";
+$lang['site_name'] = "MUBALIGH.ID";
 $lang['setting_label'] = "Setting";
 
 $lang['lbl_search_shop'] = "Search Shop";
@@ -19,7 +19,7 @@ $lang['lbl_about_shop'] = "About Shop";
 $lang['lbl_categories'] = "Categories";
 $lang['user_email'] = "Email";
 $lang['user_password'] = "Password";
-$lang['sign_in'] = "Signin";
+$lang['sign_in'] = "Masuk";
 $lang['total_users_count_label'] = "Totoal Users";
 $lang['total_cat_count_label'] = "Totoal Categories";
 $lang['total_wallpaper_count_label'] = "Totoal Wallpapers";

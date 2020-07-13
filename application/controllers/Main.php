@@ -76,9 +76,9 @@ class Main extends BE_Controller {
 		}
 
 		// load login form 
-		$this->load_view( 'partials/header' ); 
-		$this->load_view( 'login' );
-		$this->load_view( 'partials/footer' ); 
+		$this->load_view( 'partials/header_login' ); 
+		$this->load_view( 'login_baru' );
+		// $this->load_view( 'partials/footer' ); 
 	}
 
 	/**
