@@ -1,2 +1,3 @@
 # ignore config
 application/config/database.php
+.cpanel.yml
