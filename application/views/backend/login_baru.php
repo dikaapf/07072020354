@@ -6,7 +6,7 @@
 		<aside>
 			<h4>
 				<label class="login-title">
-					<?php echo $site_name; ?>
+					Logo <?php echo $site_name; ?>
 				</label>
 			</h4>
 			<hr/>
